@@ -3,7 +3,9 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - projectile
+  - wall
   layers:
   - Default
   - TransparentFX
@@ -13,7 +15,7 @@ TagManager:
   - UI
   - 
   - 
-  - 
+  - wall
   - 
   - 
   - 
@@ -48,5 +50,8 @@ TagManager:
     uniqueID: 1968442763
     locked: 0
   - name: player
-    uniqueID: 378936999
+    uniqueID: 3277702363
+    locked: 0
+  - name: ui
+    uniqueID: 717546233
     locked: 0
